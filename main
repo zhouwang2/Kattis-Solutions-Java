@@ -6,7 +6,7 @@ public class Kattis {
         
         Scanner sc = new Scanner(System.in);
         
-        #code goes here
+        //code goes here
         
     }
 }
